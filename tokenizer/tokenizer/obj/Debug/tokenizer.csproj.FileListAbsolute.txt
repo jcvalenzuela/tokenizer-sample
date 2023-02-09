@@ -1,0 +1,5 @@
+c:\users\jc\documents\visual studio 2015\Projects\tokenizer\tokenizer\bin\Debug\tokenizer.exe
+c:\users\jc\documents\visual studio 2015\Projects\tokenizer\tokenizer\bin\Debug\tokenizer.pdb
+c:\users\jc\documents\visual studio 2015\Projects\tokenizer\tokenizer\obj\Debug\tokenizer.csprojResolveAssemblyReference.cache
+c:\users\jc\documents\visual studio 2015\Projects\tokenizer\tokenizer\obj\Debug\tokenizer.exe
+c:\users\jc\documents\visual studio 2015\Projects\tokenizer\tokenizer\obj\Debug\tokenizer.pdb
